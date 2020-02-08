@@ -1,1 +1,6 @@
 # linear_algebra
+
+Name:VANISHA RM
+SRN:PES1201902399
+CLASS:4I
+ROLL NUMBER:58
